@@ -1,10 +1,10 @@
-Email Application
+Email Application -
 
-Scenario:
-You are an IT Support Administrator Specialist and are charged with the task of
-creating email accounts for new hires.
+Create an email for the new recruit John Wick. 
 
-Application should do the following:
+Let him select the department he wishs to be in.
+
+Upon selection the application should do the following:
 
     * Generate an email with the following syntax:
     
