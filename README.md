@@ -16,3 +16,4 @@ Upon selection the application should do the following:
     
     * Display the name, department, and email
     
+![](emailapp_vid.gif)
